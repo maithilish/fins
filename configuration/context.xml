@@ -6,7 +6,7 @@
     <WatchedResource>WEB-INF/web.xml</WatchedResource>
 
     <Resource name="jdbc/MysqlDS"
-              url="jdbc:mysql://mysql.fins.svc:3306/fins"
+              url="jdbc:mysql://mysql.finsdemo.svc:3306/fins"
               driverClassName="com.mysql.jdbc.Driver"
               username="adminCy54hSs"
               password="I6pun7WULg5h"
